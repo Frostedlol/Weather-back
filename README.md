@@ -26,7 +26,7 @@ This project is a weather web application built using React.js for the frontend.
 1. Navigate to the root folder of the project.
 2. Make sure your virtual enviroment is activated.
 3. Run the app.py file:
-   ```sh
+  ```sh
   python app.py
   ```
 4. The API will start and be ready to receive data and respond with weather data from Weathermap.
@@ -47,11 +47,12 @@ To get a local copy up and running follow these simple example steps.
 ### Installation
 
 1. Get a free API Key at https://openweathermap.org/
-2. Clone the repo 
+   
+3. Clone the repo 
    ```sh
    git clone https://github.com/Frostedlol/Weather-back.git
    ```
-3. virtual environment
+4. virtual environment
   ```sh
   python -m venv NAME_FOR_ENV
   ```
